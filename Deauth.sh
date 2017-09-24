@@ -1,4 +1,7 @@
-#!/bin/bash/
+#!/bin/bash/ 
+#you may need to change the above shebang depending on where bash is located on your installation.
+# Also you may need to change wlan1mon to whatever the default name of your wireless card in mpnitor mode is.
+# Make sure to use responsibly ;)
 
 RED='\033[0;31m'
 reset
