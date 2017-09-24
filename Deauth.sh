@@ -13,7 +13,7 @@ echo -e "\e[36m   ▓▓                                ▓▓\e[0m"
 echo -e "\e[36m   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓\e[0m"
 echo
 echo
-sleep 1
+sleep 0.5
 echo -e "\e[91m By using this free piece of software you are agreeing to \e[0m"
 echo -e "\e[91m only use it for educational purposes and NOT to use it \e[0m"
 echo -e "\e[91m for any malicious purposes. \e[0m"
